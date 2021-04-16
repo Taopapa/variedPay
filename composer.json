@@ -1,1 +1,7 @@
-
+{
+    "name": "variedPay/variedPay",
+    "description": "I put a lot of different payment methods together",
+    "require": {
+        "php": ">=5.6"
+    }
+}
