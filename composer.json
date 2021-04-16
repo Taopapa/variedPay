@@ -1,5 +1,5 @@
 {
-    "name": "variedpay",
+    "name": "taopapa/varied-pay",
     "description": "I put a lot of different payment methods together",
     "require": {
         "php": ">=5.6"
